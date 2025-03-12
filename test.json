@@ -1,1 +1,42 @@
-"{}" 
+[
+  {
+    "nom": "Arts",
+    "image": "arts.jpg"
+  },
+  {
+    "nom": "Musique",
+    "image": "musique.jpg"
+  },
+  {
+    "nom": "Sport",
+    "image": "sport.jpg"
+  },
+  {
+    "nom": "Cinéma",
+    "image": "cinema.jpg"
+  },
+  {
+    "nom": "Littérature",
+    "image": "litterature.jpg"
+  },
+  {
+    "nom": "Histoire",
+    "image": "histoire.jpg"
+  },
+  {
+    "nom": "Sciences",
+    "image": "sciences.jpg"
+  },
+  {
+    "nom": "Gastronomie",
+    "image": "gastronomie.jpg"
+  },
+  {
+    "nom": "Voyages",
+    "image": "voyages.jpg"
+  },
+  {
+    "nom": "Technologie",
+    "image": "technologie.jpg"
+  }
+]
